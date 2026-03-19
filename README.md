@@ -12,6 +12,14 @@ O estudo foi baseado no **PMBOK 4ª e 7ª edição**, além de conteúdos comple
 
 ---
 
+## 🌐 **Acesso ao Caderno no NotebookLM**
+
+> Acesse o material completo com todas as análises, respostas e interações com IA:
+
+🔗 [👉 Clique aqui para acessar o NotebookLM](https://notebooklm.google.com/notebook/8f9ad94e-629a-4fd2-b952-a57b38200f23)
+
+---
+
 ## 📚 **Curadoria de Fontes**
 
 As fontes utilizadas e inseridas no NotebookLM foram:
@@ -31,7 +39,7 @@ As fontes utilizadas e inseridas no NotebookLM foram:
 
 ---
 
-### 🔹 O que é escopo?
+### 🔹 O que é Escopo?
 
 > **Resposta:**
 > O escopo é o **conjunto de entregas** e o **trabalho necessário** para realizá-las dentro de um projeto.
@@ -130,4 +138,3 @@ As fontes utilizadas e inseridas no NotebookLM foram:
 
 📌 **Principal aprendizado:**
 A qualidade das respostas da IA depende diretamente da qualidade dos prompts utilizados.
-
